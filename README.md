@@ -33,5 +33,5 @@ AWS EC2/RDS · Docker · GitHub Actions · Git · GitHub
 
 ## 🎓 Education
 
-**Sogang University — AI·SW Graduate School**  
+**Sogang University - AI·SW Graduate School**  
 Master's Student in Artificial Intelligence
